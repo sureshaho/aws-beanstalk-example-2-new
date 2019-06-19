@@ -1,4 +1,4 @@
-# This file controls the AWS CodeBuild
+# This file controls the AWS CodeBuild q
 
 version: 0.2
 phases:
